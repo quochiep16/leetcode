@@ -50,8 +50,10 @@ def print_linked_list(node):
 
 # ---- MAIN ----
 if __name__ == "__main__":
-    l1 = build_linked_list([2, 4, 3])
+    l1 = build_linked_list([7, 4, 3, 9])
     l2 = build_linked_list([5, 6, 4])
+
+
 
     sol = Solution()
     result = sol.addTwoNumbers(l1, l2)
