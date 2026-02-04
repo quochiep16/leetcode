@@ -36,3 +36,5 @@ if __name__ == "__main__":
     print(sol.longestPalindrome("ac"))     # a hoặc c
     print(sol.longestPalindrome("acdgasisdfjkas"))
     print(sol.longestPalindrome("dfghkjllo3456789024"))        # ""
+    print(sol.longestPalindrome("forgeeksskeegfor"))  # geeksskeeg
+    print(sol.longestPalindrome("khiahidhasisdhoassgit"))  # ""
